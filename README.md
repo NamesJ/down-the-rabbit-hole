@@ -36,5 +36,12 @@ Right now, the first big red button you press to get this machine clacking and s
 ```
 git clone [repo_url_here]
 
-python3 down_the_rabbit_hole.py
+# Linux
+python3 down_the_rabbit_hole.py; python3 that_was_definitely_a_rabbit_hole.py
+
+# Windows
+python down_the_rabbit_hole.py; python that_was_definitely_a_rabbit_hole.py
 ```
+
+## What I (repo owner speaking) have learned by doing this
+1. Debugging a file, that is modified by another file, that is created a different file, that is created by another file is the exactly the nightmare it sounds.
