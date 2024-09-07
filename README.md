@@ -34,7 +34,7 @@ Naturally, a project like this is going to potentially have a good deal of setup
 
 Right now, the first big red button you press to get this machine clacking and spinning is:
 ```
-git clone [repo_url_here]
+git clone https://github.com/NamesJ/down-the-rabbit-hole
 
 # Linux
 python3 down_the_rabbit_hole.py; python3 that_was_definitely_a_rabbit_hole.py
